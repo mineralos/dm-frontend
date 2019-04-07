@@ -1,0 +1,30 @@
+{
+  "name": "dragon-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.4.0",
+    "axios": "^0.17.1",
+    "chart.js": "^2.7.2",
+    "chunked-request": "^0.7.1",
+    "npm-4": "^2.1.1",
+    "react": "^16.2.0",
+    "react-chartjs": "^1.2.0",
+    "react-chartjs-2": "^2.7.0",
+    "react-dom": "^16.2.0",
+    "react-rangeslider": "^2.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-react": "^6.24.1"
+  }
+}
